@@ -1,8 +1,8 @@
-using System.Text.Json;
-using Azure;
+﻿using Azure;
 using Azure.Data.Tables;
+using System.Text.Json;
 
-namespace TrilhaNetAzureDesafio.Models
+namespace trilha_net_azure_desafio.Models
 {
     public class FuncionarioLog : Funcionario, ITableEntity
     {

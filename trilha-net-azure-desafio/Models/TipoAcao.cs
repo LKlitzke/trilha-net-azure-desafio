@@ -1,4 +1,4 @@
-namespace TrilhaNetAzureDesafio.Models
+﻿namespace trilha_net_azure_desafio.Models
 {
     public enum TipoAcao
     {
